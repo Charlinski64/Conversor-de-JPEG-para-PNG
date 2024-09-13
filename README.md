@@ -46,8 +46,11 @@ Como usar o script
     O script também inclui um trecho para converter um arquivo PNG salvo para o formato JPEG. Os arquivos são automaticamente salvos no mesmo diretório com a extensão .jpeg.
 
 Erros Comuns
-    Caminhos de arquivo inválidos: Verifique se os caminhos dos arquivos de entrada e saída estão corretos e existem.
-    Permissões de arquivo: Certifique-se de que você tem permissão para ler e gravar nos diretórios especificados.
+
+Caminhos de arquivo inválidos: Verifique se os caminhos dos arquivos de entrada e saída estão corretos e existem.
+
+Permissões de arquivo: Certifique-se de que você tem permissão para ler e gravar nos diretórios especificados.
 
 Licença
-    Este projeto é de código aberto e está disponível sob a licença MIT.
+
+Este projeto é de código aberto e está disponível sob a licença MIT.
