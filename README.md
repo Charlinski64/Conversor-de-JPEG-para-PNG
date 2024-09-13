@@ -16,7 +16,7 @@ python --version
     pip install Pillow
 
 
-Como usar o script?
+Como usar o script
 
 1. Estrutura do código
     O script realiza as seguintes operações:
@@ -44,18 +44,6 @@ Como usar o script?
 
 5. Conversão de PNG para JPEG
     O script também inclui um trecho para converter um arquivo PNG salvo para o formato JPEG. Os arquivos são automaticamente salvos no mesmo diretório com a extensão .jpeg.
-
-Estrutura do Projeto
-Projeto
-│   README.md
-│   conversor_imagens.py
-│
-└───jpeg
-│   │   test.jpeg
-│   
-└───png
-    │   nova_imagem.png
-
 
 Erros Comuns
     Caminhos de arquivo inválidos: Verifique se os caminhos dos arquivos de entrada e saída estão corretos e existem.
