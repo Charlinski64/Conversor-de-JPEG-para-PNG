@@ -8,7 +8,7 @@ Requisitos
 1. Python instalado
     Este projeto foi desenvolvido usando Python 3.12. Você pode verificar a versão instalada em seu sistema executando o comando no terminal:
 
-python --version
+    python --version
 
 2. Instalar Pillow (PIL)
     Para que o script funcione corretamente, a biblioteca Pillow deve estar instalada. Você pode instalá-la com o seguinte comando no terminal:
